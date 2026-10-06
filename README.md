@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacobbushnel
-- 👀 I’m interested in 
-- 🌱 I’m currently learning to build web applications with Pytho and Flask and networking flows and protocols.
-- 💞️ I’m looking to collaborate on just about anything
+- 👀 I’m interested in offensive security
+- 🌱 I’m currently learning to build useful tools with AI.
+- 💞️ I’m not really looking to collaborate on anything
 - 📫 How to reach me, just send me and email.
 
 <!---
