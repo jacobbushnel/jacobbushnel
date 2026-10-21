@@ -2,7 +2,7 @@
 - 👀 I’m interested in offensive security
 - 🌱 I’m currently learning to build useful tools with AI.
 - 💞️ I’m not really looking to collaborate on anything
-- 📫 How to reach me, just send me and email.
+- 📫 How to reach me, just send me an email.
 
 <!---
 jacobbushnel/jacobbushnel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
